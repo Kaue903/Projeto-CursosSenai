@@ -12,6 +12,7 @@ O código foi organizado seguindo boas práticas de HTML e CSS, dividido nas seg
     * *Sobre:* Descrição da metodologia de ensino (Teoria e Prática).
     * *Stats:* Cards informativos mostrando métricas do curso (Duração e Quantidade de Desafios).
 3.  **Footer (Rodapé):** Área de localização com endereço completo (Av. Santos Dumont - Santo André) e direitos autorais.
+4.   **Responsavidade:** Totalmente responsivo e já moldado para o uso em Mobile
 
 ## 💻 Tecnologias Utilizadas
 
